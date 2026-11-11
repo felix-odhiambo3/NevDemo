@@ -1,0 +1,6 @@
+{
+  "name": "NEV CARWASH - Carwash Operations Management",
+  "description": "Comprehensive carwash operations management system for NEV CARWASH (Diamond Space Kikuyu Branch) featuring vehicle inspection, multi-cleaner assignment, 30%/35% commission engine, Safaricom M-Pesa & split payments, GPS attendance, and daily cash-up reconciliation. Powered by Diamond Space Limited.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
